@@ -28,14 +28,18 @@ nav {
 	background-color: #142236;
 }
 a {
-	color: #FF1500;
+	color: #d51000;
 }
 a:visited {
 	color: #9D293C;
 }
 a:active {
-	color: #FF1500;
+	color: #d51000;
 }
 nav a {
 	color: #9D293C !important;
+}
+.major {
+	color: #D51000;
+	text-shadow: 0 2px #9D293C;
 }
