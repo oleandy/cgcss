@@ -1,0 +1,41 @@
+body {
+	background-color: #142236;
+	color: #060A10;
+}
+#main {
+	background-color: #28446f;
+}
+#slide {
+	background-color: #5b85c4;
+}
+#info > span > .spoiler.open {
+	background-color: #5b85c4;
+}
+header .mspfalogo {
+	background-color: #28446f;
+	border-color: #5b85c4;
+	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/30001365_DWt3QApzOA9Kknc.png?1619146964");
+}
+footer .mspfalogo {
+	background-color: #5b85c4;
+	border-color: #28446f;
+	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/30001365_DWt3QApzOA9Kknc.png?1619146964");
+}
+div.heart {
+	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/34022334_maesouiDVORsefQ.png");
+}
+nav {
+	background-color: #142236;
+}
+a {
+	color: #FF1500;
+}
+a:visited {
+	color: #9D293C;
+}
+a:active {
+	color: #FF1500;
+}
+nav a {
+	color: #9D293C !important;
+}
