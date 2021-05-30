@@ -1,0 +1,2 @@
+- howdy! this is a composit file for the css i'm using for my webcomic, compass guided!
+- i'm obviously very new to this, hahah
