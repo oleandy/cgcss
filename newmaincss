@@ -5,6 +5,9 @@ background: linear-gradient(180deg, rgba(0,3,36,1) 0%, rgba(41,1,115,1) 26%, rgb
 #main {
 	background-color: #a0a8c6;
 }
+#slide {
+	background-color: #d8ddee;
+}
 header .mspfalogo {
 	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/30001365_DWt3QApzOA9Kknc.png?1619146964");
 }
