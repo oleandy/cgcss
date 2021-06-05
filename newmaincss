@@ -3,10 +3,10 @@ body {
 background: linear-gradient(180deg, rgba(0,3,36,1) 0%, rgba(41,1,115,1) 26%, rgba(24,32,145,1) 42%, rgba(70,27,122,1) 58%, rgba(109,22,103,1) 76%, rgba(148,1,64,1) 85%, rgba(219,10,50,1) 95%, rgba(240,6,6,1) 100%);   
 }
 #main {
-	background-color: #a0a8c6;
+	background-color: #95a0d1;
 }
 #slide {
-	background-color: #d8ddee;
+	background-color: #d5daf1;
 }
 header .mspfalogo {
 	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/30001365_DWt3QApzOA9Kknc.png?1619146964");
