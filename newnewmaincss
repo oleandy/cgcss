@@ -49,11 +49,6 @@ background: linear-gradient(180deg, rgba(0,3,36,1) 0%, rgba(41,1,115,1) 26%, rgb
 #slide {
 	background-color: #d5daf1;
 }
-
-footer .mspfalogo {
-	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/30001365_DWt3QApzOA9Kknc.png?1619146964");
-}
-
 /* INFO BOX + COMMENTS */
 
 #info > span > .spoiler.open {
@@ -79,4 +74,10 @@ h3.major {
 a.major[href] {
     color: #d51000;
     text-shadow: 0 2px #8d2436;
+}
+
+/* FOOTER SHIT */
+
+footer .mspfalogo {
+	background-image: url("https://f2.toyhou.se/file/f2-toyhou-se/images/30001365_DWt3QApzOA9Kknc.png?1619146964");
 }
